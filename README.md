@@ -1,4 +1,4 @@
-A tiny FastAPI service to read patient records from a local patients.json file and expose simple endpoints to view, fetch by ID, and sort patients.
+A FastAPI service to read patient records from a local patients.json file and expose simple endpoints to view, fetch by ID, and sort patients.
 
 Features
 
