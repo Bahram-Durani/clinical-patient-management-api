@@ -17,3 +17,5 @@ Requirements
 
 	•	Python 3.9+
 	•	Packages: fastapi, uvicorn
+
+Updated!!!
